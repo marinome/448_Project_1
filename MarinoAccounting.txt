@@ -1,0 +1,5 @@
+09/08 - Had first meeting on Zoom with group
+  To Do: (Before Friday morning)
+      - Create board on command line (symbols, layout, look/aesthetic)
+        - Two boards, "My Board" and "Player 2 Board"
+        - Must have letters and numbers for a grid
