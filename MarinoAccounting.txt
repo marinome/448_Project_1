@@ -3,3 +3,6 @@
       - Create board on command line (symbols, layout, look/aesthetic)
         - Two boards, "My Board" and "Player 2 Board"
         - Must have letters and numbers for a grid
+        
+       
+Total time spent: 40 minutes
